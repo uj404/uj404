@@ -1,4 +1,15 @@
-## Hi there 👋
+## heya, i'm uj 👋
+
+### what i build
+- 🎮 games & interactive experiences
+- 🧠 ai-driven npcs, gameplay logics & systems
+- 🌐 real-time 3d for web (using three.js)
+- 🛠️ tools, prototypes & experiments
+
+### tech i work with
+- **engines:** Unity
+- **web:** three.js, webgl
+- **design:** figma, photoshop
 
 <!--
 **uj404/uj404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
