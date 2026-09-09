@@ -6,6 +6,7 @@
 ### tech i work with
 - **engines:** Unity, Godot
 - **languages:** C++, C#, Python, GDScript
+- **web:** JS, Phaser.js
 
 <!--
 **uj404/uj404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
