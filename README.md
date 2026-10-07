@@ -4,7 +4,7 @@
 
 - Exploring game engine architecture, low-level C++ systems
 - Building games in Godot (GDScript / C#)
-- **Tech:** C++, Godot, Pytho, Git, MSYS2/MinGW, Python
+- **Tech:** C++, Godot, Python, Git, MSYS2/MinGW, Python
 
 💬 Connect with me :
 - Discord : `uj404`
